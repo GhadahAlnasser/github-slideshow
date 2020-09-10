@@ -5,6 +5,12 @@ layout: slide
 title: "welcome to our slide!"
 
 ---
-your text
+this is a new line 
 
-use the left arrow to go back
+this is a 2nd new line
+
+what is this
+
+ANOTHER ONE 
+
+ok bye
